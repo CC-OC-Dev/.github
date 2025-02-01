@@ -22,14 +22,6 @@ If you love automation, programming in Minecraft, or just want to make mod usage
 2. Download it into your Minecraft world.
 3. Configure it for your needs and start using it!
 
-## 🏷 Repository Tags
-Each repository will have specific tags to help identify its purpose:
-- **utility** – Practical and useful scripts for automation and ease of use.
-- **experimental** – Scripts that are tests, prototypes, or unfinished ideas.
-- **fun** – Just for entertainment, creative, or meme-worthy scripts.
-- **performance** – Optimized scripts designed to run efficiently.
-- **networking** – Scripts focused on communication between multiple computers.
-
 ## 💡 Contacts & Discussions
 For inquiries or suggestions:
 - Discord: **tokishu** (preferred)
